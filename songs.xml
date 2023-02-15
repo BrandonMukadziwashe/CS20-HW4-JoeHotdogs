@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="songs.css"?>
+
+<songs>
+  <heading> Brandon Song List </heading>
+  <song>
+    <title>Ndaremerwa</title>
+    <artist>Holy Ten</artist>
+    <genre>Zim Hiphop</genre>
+    <year>2018</year>
+  </song>
+  <song>
+    <title>MaGaffa</title>
+    <artist>Winky D ft Soul Jah Love</artist>
+    <genre>Zim Dancehall</genre>
+    <year>2014</year>
+  </song>
+  <song>
+    <title>Chidzoka</title>
+    <artist>Roki</artist>
+    <genre>Urban Grooves</genre>
+    <year>2007</year>
+  </song>
+  <song>
+    <title>I have nothing</title>
+    <artist>Whitney Houston</artist>
+    <genre>Pop</genre>
+    <year>1992</year>
+  </song>
+  <song>
+    <title>Ex-Factor</title>
+    <artist>Ms Lauryn Hill</artist>
+    <genre>RnB, Soul</genre>
+    <year>1998</year>
+  </song>
+  <song>
+    <title>Is this love</title>
+    <artist>Bob Marley</artist>
+    <genre>Reggae</genre>
+    <year>1978</year>
+  </song>
+  <song>
+    <title>Nyeredzi</title>
+    <artist>Jah Prayzah</artist>
+    <genre>Zim Pop</genre>
+    <year>2021</year>
+  </song>
+  <song>
+    <title>Ndakusuwa</title>
+    <artist>Hwindi President</artist>
+    <genre>Zim Pop, Zim Dancehall, Zim Reggae</genre>
+    <year>2020</year>
+  </song>
+  <song>
+    <title>Love on the brain</title>
+    <artist>Rihanna</artist>
+    <genre>Pop, Alternative, Hip-Hop</genre>
+    <year>2016</year>
+  </song>
+  <song>
+    <title>Shot down</title>
+    <artist>Khalid</artist>
+    <genre>RnB, Soul</genre>
+    <year>2017</year>
+  </song>
+</songs>
+
+
+
+
+
+
+
